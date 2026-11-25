@@ -27,7 +27,7 @@ This is a **formatting and faithful transcription** task, not a rewriting, summa
 |---|---|
 | Paper | A4, portrait, designed for double-sided printing |
 | Target length | 2 pages, **best effort**; never drop content to hit the target |
-| Columns | **4**, automatically flowing |
+| Columns | **3**, automatically flowing |
 | Margins | **4 mm** on all sides, subject to printer's printable area |
 | Column separation | about **2.5 mm**; adjustable for fit |
 | Body font | **TeX Gyre Termes**, 6 pt |
