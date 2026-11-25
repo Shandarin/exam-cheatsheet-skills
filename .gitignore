@@ -1,0 +1,24 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.xdv
+*.bbl
+*.blg
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.ilg
+*.idx
+*.ind
+*.lof
+*.lot
+build/
+.DS_Store
+Thumbs.db
+~$*
